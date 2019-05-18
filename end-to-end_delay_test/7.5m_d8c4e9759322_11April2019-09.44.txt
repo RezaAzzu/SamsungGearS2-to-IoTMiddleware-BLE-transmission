@@ -1,0 +1,417 @@
+{"sendtime":1554950637.353,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1191967248916626 seconds.
+Cloud delay: 1.363490343093872.
+Total delay: 2.482687067985535.
+
+{"sendtime":1554950637.581,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.233298134803772 seconds.
+Cloud delay: 0.35514140129089355.
+Total delay: 1.5884395360946655.
+
+{"sendtime":1554950641.212,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1138659238815307 seconds.
+Cloud delay: 0.3672044277191162.
+Total delay: 1.481070351600647.
+
+{"sendtime":1554950642.392,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1073575973510743 seconds.
+Cloud delay: 0.488692045211792.
+Total delay: 1.5960496425628663.
+
+{"sendtime":1554950643.598,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1183009624481202 seconds.
+Cloud delay: 0.745999813079834.
+Total delay: 1.8643007755279541.
+
+{"sendtime":1554950644.795,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1097553968429565 seconds.
+Cloud delay: 0.523637056350708.
+Total delay: 1.6333924531936646.
+
+{"sendtime":1554950646,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1075398445129394 seconds.
+Cloud delay: 0.46218109130859375.
+Total delay: 1.5697209358215332.
+
+{"sendtime":1554950649.6,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.107801866531372 seconds.
+Cloud delay: 0.3657832145690918.
+Total delay: 1.4735850811004638.
+
+{"sendtime":1554950650.8,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.108322763442993 seconds.
+Cloud delay: 0.5969619750976562.
+Total delay: 1.7052847385406493.
+
+{"sendtime":1554950654.397,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1064160108566283 seconds.
+Cloud delay: 0.4001493453979492.
+Total delay: 1.5065653562545775.
+
+{"sendtime":1554950655.6,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1074015378952027 seconds.
+Cloud delay: 0.34696364402770996.
+Total delay: 1.4543651819229126.
+
+{"sendtime":1554950656.799,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1071271419525146 seconds.
+Cloud delay: 0.636671781539917.
+Total delay: 1.7437989234924316.
+
+{"sendtime":1554950658.005,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1097799062728881 seconds.
+Cloud delay: 0.45536351203918457.
+Total delay: 1.5651434183120727.
+
+{"sendtime":1554950659.193,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1074451446533202 seconds.
+Cloud delay: 0.3719167709350586.
+Total delay: 1.4793619155883788.
+
+{"sendtime":1554950662.8,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1107718229293824 seconds.
+Cloud delay: 0.48993754386901855.
+Total delay: 1.600709366798401.
+
+{"sendtime":1554950664.04,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1154374122619628 seconds.
+Cloud delay: 0.4347825050354004.
+Total delay: 1.5502199172973632.
+
+{"sendtime":1554950665.193,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1096972465515136 seconds.
+Cloud delay: 0.427595853805542.
+Total delay: 1.5372931003570556.
+
+{"sendtime":1554950666.407,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.115743136405945 seconds.
+Cloud delay: 0.39682865142822266.
+Total delay: 1.5125717878341676.
+
+{"sendtime":1554950667.599,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1175033330917359 seconds.
+Cloud delay: 0.3650979995727539.
+Total delay: 1.4826013326644898.
+
+{"sendtime":1554950668.804,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.2183238029479981 seconds.
+Cloud delay: 0.3154895305633545.
+Total delay: 1.5338133335113526.
+
+{"sendtime":1554950669.999,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1308108568191528 seconds.
+Cloud delay: 0.44643640518188477.
+Total delay: 1.5772472620010376.
+
+{"sendtime":1554950671.202,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1166658639907836 seconds.
+Cloud delay: 0.38614535331726074.
+Total delay: 1.5028112173080443.
+
+{"sendtime":1554950672.405,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1227149486541748 seconds.
+Cloud delay: 0.43115901947021484.
+Total delay: 1.5538739681243896.
+
+{"sendtime":1554950673.596,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1234054565429688 seconds.
+Cloud delay: 0.3602614402770996.
+Total delay: 1.4836668968200684.
+
+{"sendtime":1554950674.782,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1223367929458619 seconds.
+Cloud delay: 0.33071184158325195.
+Total delay: 1.4530486345291138.
+
+{"sendtime":1554950676.004,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1258626222610473 seconds.
+Cloud delay: 0.3563194274902344.
+Total delay: 1.4821820497512816.
+
+{"sendtime":1554950677.199,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1244596004486085 seconds.
+Cloud delay: 0.60369873046875.
+Total delay: 1.7281583309173585.
+
+{"sendtime":1554950678.401,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1202190160751342 seconds.
+Cloud delay: 0.5477697849273682.
+Total delay: 1.6679888010025024.
+
+{"sendtime":1554950679.6,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.2223617553710937 seconds.
+Cloud delay: 0.40007472038269043.
+Total delay: 1.6224364757537841.
+
+{"sendtime":1554950680.811,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.141725730895996 seconds.
+Cloud delay: 0.3962891101837158.
+Total delay: 1.5380148410797119.
+
+{"sendtime":1554950682,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1237793207168578 seconds.
+Cloud delay: 0.5053713321685791.
+Total delay: 1.629150652885437.
+
+{"sendtime":1554950683.205,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1254323244094848 seconds.
+Cloud delay: 0.3629014492034912.
+Total delay: 1.488333773612976.
+
+{"sendtime":1554950684.392,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.124489712715149 seconds.
+Cloud delay: 0.3571341037750244.
+Total delay: 1.4816238164901734.
+
+{"sendtime":1554950685.599,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1246047258377074 seconds.
+Cloud delay: 0.36120128631591797.
+Total delay: 1.4858060121536254.
+
+{"sendtime":1554950686.794,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.224557113647461 seconds.
+Cloud delay: 0.3895914554595947.
+Total delay: 1.6141485691070556.
+
+{"sendtime":1554950688.005,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.142838191986084 seconds.
+Cloud delay: 0.3093130588531494.
+Total delay: 1.4521512508392334.
+
+{"sendtime":1554950689.202,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1233986854553222 seconds.
+Cloud delay: 0.40485095977783203.
+Total delay: 1.5282496452331542.
+
+{"sendtime":1554950690.404,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1280659914016724 seconds.
+Cloud delay: 0.40741920471191406.
+Total delay: 1.5354851961135865.
+
+{"sendtime":1554950691.603,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.225501036643982 seconds.
+Cloud delay: 0.3864560127258301.
+Total delay: 1.611957049369812.
+
+{"sendtime":1554950692.816,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1432717084884643 seconds.
+Cloud delay: 0.4566836357116699.
+Total delay: 1.5999553442001342.
+
+{"sendtime":1554950694.001,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1262520551681519 seconds.
+Cloud delay: 0.5722842216491699.
+Total delay: 1.6985362768173218.
+
+{"sendtime":1554950695.214,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.132630968093872 seconds.
+Cloud delay: 0.3461916446685791.
+Total delay: 1.478822612762451.
+
+{"sendtime":1554950696.398,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.2267805814743042 seconds.
+Cloud delay: 0.32786107063293457.
+Total delay: 1.5546416521072388.
+
+{"sendtime":1554950697.611,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1387385129928589 seconds.
+Cloud delay: 0.418454647064209.
+Total delay: 1.5571931600570679.
+
+{"sendtime":1554950698.808,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1243013381958007 seconds.
+Cloud delay: 0.5340259075164795.
+Total delay: 1.6583272457122802.
+
+{"sendtime":1554950700,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1253063201904296 seconds.
+Cloud delay: 0.3942415714263916.
+Total delay: 1.5195478916168212.
+
+{"sendtime":1554950701.211,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1351345777511597 seconds.
+Cloud delay: 0.4951016902923584.
+Total delay: 1.630236268043518.
+
+{"sendtime":1554950702.412,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1290338516235352 seconds.
+Cloud delay: 0.5049467086791992.
+Total delay: 1.6339805603027344.
+
+{"sendtime":1554950706.037,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.130294680595398 seconds.
+Cloud delay: 0.48828959465026855.
+Total delay: 1.6185842752456665.
+
+{"sendtime":1554950707.209,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.2257988214492799 seconds.
+Cloud delay: 0.5109941959381104.
+Total delay: 1.7367930173873902.
+
+{"sendtime":1554950708.412,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.157022762298584 seconds.
+Cloud delay: 0.35665369033813477.
+Total delay: 1.5136764526367188.
+
+{"sendtime":1554950709.597,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1291312217712401 seconds.
+Cloud delay: 0.33101630210876465.
+Total delay: 1.4601475238800048.
+
+{"sendtime":1554950710.806,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.129160761833191 seconds.
+Cloud delay: 0.8619587421417236.
+Total delay: 1.9911195039749146.
+
+{"sendtime":1554950711.997,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1261760950088502 seconds.
+Cloud delay: 0.3110933303833008.
+Total delay: 1.437269425392151.
+
+{"sendtime":1554950713.213,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1288781642913819 seconds.
+Cloud delay: 0.36783361434936523.
+Total delay: 1.4967117786407471.
+
+{"sendtime":1554950716.808,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1297541379928588 seconds.
+Cloud delay: 0.5158429145812988.
+Total delay: 1.6455970525741577.
+
+{"sendtime":1554950718.011,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.2246793508529663 seconds.
+Cloud delay: 0.5743732452392578.
+Total delay: 1.7990525960922241.
+
+{"sendtime":1554950719.193,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1643500566482543 seconds.
+Cloud delay: 0.3361995220184326.
+Total delay: 1.500549578666687.
+
+{"sendtime":1554950720.413,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1283754110336304 seconds.
+Cloud delay: 0.6553308963775635.
+Total delay: 1.7837063074111938.
+
+{"sendtime":1554950721.601,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1266651153564453 seconds.
+Cloud delay: 0.48443174362182617.
+Total delay: 1.6110968589782715.
+
+{"sendtime":1554950722.795,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1245474100112915 seconds.
+Cloud delay: 0.543004035949707.
+Total delay: 1.6675514459609986.
+
+{"sendtime":1554950724.011,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.127062153816223 seconds.
+Cloud delay: 0.5525732040405273.
+Total delay: 1.6796353578567504.
+
+{"sendtime":1554950725.204,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1235843658447267 seconds.
+Cloud delay: 0.4146308898925781.
+Total delay: 1.5382152557373048.
+
+{"sendtime":1554950726.407,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.123126745223999 seconds.
+Cloud delay: 0.6569092273712158.
+Total delay: 1.7800359725952148.
+
+{"sendtime":1554950727.611,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.128109836578369 seconds.
+Cloud delay: 0.7034382820129395.
+Total delay: 1.8315481185913085.
+
+{"sendtime":1554950728.795,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1263481855392456 seconds.
+Cloud delay: 0.5469100475311279.
+Total delay: 1.6732582330703736.
+
+{"sendtime":1554950730.001,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1249485969543458 seconds.
+Cloud delay: 0.45565342903137207.
+Total delay: 1.5806020259857179.
+
+{"sendtime":1554950731.206,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1244791269302368 seconds.
+Cloud delay: 0.5762555599212646.
+Total delay: 1.7007346868515014.
+
+{"sendtime":1554950737.192,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1244813442230224 seconds.
+Cloud delay: 0.5729756355285645.
+Total delay: 1.6974569797515868.
+
+{"sendtime":1554950738.401,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1248583793640137 seconds.
+Cloud delay: 0.4175570011138916.
+Total delay: 1.5424153804779053.
+
+{"sendtime":1554950739.599,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1292248964309692 seconds.
+Cloud delay: 0.8466796875.
+Total delay: 1.9759045839309692.
+
+{"sendtime":1554950740.79,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.12716863155365 seconds.
+Cloud delay: 0.9612314701080322.
+Total delay: 2.088400101661682.
+
+{"sendtime":1554950742.009,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1265844583511353 seconds.
+Cloud delay: 0.39667654037475586.
+Total delay: 1.5232609987258912.
+
+{"sendtime":1554950743.202,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1274314403533936 seconds.
+Cloud delay: 0.3858039379119873.
+Total delay: 1.513235378265381.
+
+{"sendtime":1554950746.817,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1296839952468871 seconds.
+Cloud delay: 0.52982497215271.
+Total delay: 1.659508967399597.
+
+{"sendtime":1554950748.002,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1263890743255616 seconds.
+Cloud delay: 0.4083433151245117.
+Total delay: 1.5347323894500733.
+
+{"sendtime":1554950749.201,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.125247836112976 seconds.
+Cloud delay: 0.521273136138916.
+Total delay: 1.646520972251892.
+
+{"sendtime":1554950750.415,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1275545835494996 seconds.
+Cloud delay: 0.39482641220092773.
+Total delay: 1.5223809957504273.
+
+{"sendtime":1554950751.605,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1238173484802245 seconds.
+Cloud delay: 0.6627974510192871.
+Total delay: 1.7866147994995116.
+
+{"sendtime":1554950752.811,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1297043561935425 seconds.
+Cloud delay: 0.6295509338378906.
+Total delay: 1.759255290031433.
+
+{"sendtime":1554950753.995,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.1248603820800782 seconds.
+Cloud delay: 0.45346570014953613.
+Total delay: 1.5783260822296143.
+
+{"sendtime":1554950755.224,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.130935001373291 seconds.
+Cloud delay: 0.49147748947143555.
+Total delay: 1.6224124908447266.
+
+{"sendtime":1554950756.4,"mac_addr":"d8:c4:e9:75:93:22"},
+BLE delay: 1.12400062084198 seconds.
+Cloud delay: 0.3479492664337158.
+Total delay: 1.4719498872756958.
+
+{["rez", "abcd", "d8:c4:e9:75:93:22"]}
+]
